@@ -14,8 +14,8 @@ Signals are acquired using EEG hardware (used here for EOG capture) and processe
 
 ## Hardware
 
-- Arduino R4 (HID capable)
-- EEG/BioAmp acquisition hardware
+- Arduino R4 
+- BioAmp EXG Pill (Upside Down Labs)
 - A0 → Vertical channel (blinks)
 - A1 → Horizontal channel (left/right)
 
